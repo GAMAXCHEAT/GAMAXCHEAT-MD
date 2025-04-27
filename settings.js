@@ -1,7 +1,7 @@
 const settings = {
-  packname: 'Knight',
-  author: 'Bot',
-  botName: "Knight Bot",
+  packname: 'GAMA X CHEAT BOT',
+  author: 'GAMA X CHEAT BOT',
+  botName: "GAMA X CHEAT BOT",
   botOwner: 'Professor', // Your name
   ownerNumber: '+201011907743', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
